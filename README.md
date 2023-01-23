@@ -1,1 +1,1 @@
-# fastapi-starter
+# fastapi-jinja2-template
