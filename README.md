@@ -71,4 +71,4 @@ The **templates** directory contains the Jinja2 template files used to generate 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/carlosm3/fastapi-jinja2-template/blob/main/LICENSE) file for details.
+This project is released under the MIT License. See the [LICENSE](https://github.com/carlosm3/fastapi-jinja2-template/blob/main/LICENSE) file for details.
