@@ -42,17 +42,14 @@ The project's directory structure is as follows:
 app_name/
 ├── main.py
 ├── app/
-│   ├── __init__.py
 │   ├── routes/
-│   │   └── __init__.py
 │   ├── models/
-│   │   └──__init__.py
 │   ├── services/
-│   │   ├── __init__.py
-│   │   └── config/
-│   │       └── __init__.py
+│   ├── static/
+│   │   └── css/
+│   │   └── js/
+│   │   └── img/
 │   └── utils/
-│       └── __init__.py
 ├── templates/
 │   ├── index.html
 │   └── layout.html
